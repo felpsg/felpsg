@@ -5,8 +5,7 @@
 
 <div align="center">
   <img style="margin-left: 10px" height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=felpsg&theme=radical&hide_border=false" alt="streak stats image">
-   <img height="140px" src="https://github-readme-stats.vercel.app/api?username=felpsg&theme=radical&hide_border=false&include_all_commits=false&count_private=tue")
-</div>
+
 
 
 
